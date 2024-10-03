@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 
 altair==5.4.1
 attrs==24.2.0
